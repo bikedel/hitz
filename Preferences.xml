@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <preferences>
+    <preference skin="Win1">
+      <x3_hideicons />
+      <xmainrollstatus />
+      <xmainicons />
+      <xmaingroupsorder />
+      <xstatscollapsed> </xstatscollapsed>
+      <themestatus />
+    </preference>
+  </preferences>
+</PreferenceList>

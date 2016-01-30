@@ -1,0 +1,1 @@
+curl -s "http://hitz.co.za/counter.php?[1-10000]"
